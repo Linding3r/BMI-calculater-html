@@ -1,0 +1,25 @@
+body{
+    background-image: url("/images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 1.5rem;
+    height: 100vh;
+    width: 100vw;
+    font-family:"Monserrat", sans-serif;
+    color: black;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    margin: 20px;
+}
+
+label{
+    font-size: 2rem;
+    color: white;
+    text-shadow: black;
+}
+
+span{
+    font-weight: bolder;
+    font-size: 2rem;
+}
